@@ -1,2 +1,2 @@
 # infrapilot
-Automated infrastructure provisisioning and management on multicloud.
+Automated infrastructure provisioning and management on multicloud.
